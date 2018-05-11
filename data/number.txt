@@ -1,0 +1,6 @@
+,Unnamed: 0,ball,mug,paper,pen,pencil
+0,blue,6.0,0,0,6.0,0
+1,green,0,0,0,0,0
+2,red,0,0,0,0,0
+3,white,20.0,0,0,20.0,0
+4,yellow,19.0,0,0,19.0,0
