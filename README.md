@@ -1,6 +1,6 @@
 # ai-workshop
 Step-1:<br>
-  * First, install Ananconda with comes preinstalled, Python packages, and jupyter notebook.<br>
+  * First, install Ananconda which comes preinstalled with Python packages, and jupyter notebook.<br>
   * You could install it from the link https://www.anaconda.com/download/#linux or from the thumbdrive we provide.<br>
   
 Step-2:<br>
